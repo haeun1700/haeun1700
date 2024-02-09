@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=haeun1700's%20Github&fontSize=90)
-[![Blog](https://img.shields.io/badge/Algorithm%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)]()
+
 # Team Project
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=team-osca2&repo=spring-osca)](https://github.com/team-osca2/spring-osca)-->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=haeun1700&repo=android-volunteer-application)](https://github.com/haeun1700/android-volunteer-application)
