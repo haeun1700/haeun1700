@@ -5,8 +5,6 @@
 # Personal Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=haeun1700&repo=webProgrammingAssignment)](https://github.com/haeun1700/webProgrammingAssignment)
 
-# Education
-한신대 컴퓨터공학부   
 
 # Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
